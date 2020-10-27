@@ -46,6 +46,7 @@ section p {
 
 section img {
   max-width: 400px;
+  margin-left: 20px;
   height: auto;
   float: right;
 }
@@ -99,6 +100,7 @@ section img {
   section img {
     float: none;
     max-width: 275px;
+    margin-left: 0;
   }
 }
 
