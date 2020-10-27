@@ -7,6 +7,7 @@ body {
 .content {
   width: 80%;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 header {
@@ -97,6 +98,7 @@ section img {
 
   section img {
     float: none;
+    max-width: 275px;
   }
 }
 
